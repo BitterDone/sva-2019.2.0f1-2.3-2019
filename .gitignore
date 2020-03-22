@@ -15,7 +15,7 @@
 /[Mm]emoryCaptures/
 
 /app-x86/
-/MixedReality*/
+/Assets/MixedReality*/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
