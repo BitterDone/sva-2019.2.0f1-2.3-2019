@@ -570,11 +570,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: D:\Repos\PersonalGithub\_SpectatorViewAttempts\2019.2.0f1-2.3-2019\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80cb1ab2ea1ed701
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
