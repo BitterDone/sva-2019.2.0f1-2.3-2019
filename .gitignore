@@ -16,6 +16,7 @@
 
 /app-x86/
 /Assets/MixedReality*/
+/Assets/Dependencies/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
